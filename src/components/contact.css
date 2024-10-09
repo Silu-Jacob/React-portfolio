@@ -1,0 +1,42 @@
+.container-contact{
+    align-items: center;
+    text-align: center;
+}
+
+.contact-right form, p{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+   }
+   form input, form textarea{
+    width:50%;
+    border: 0;
+    outline: none;
+    background: #262626;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+
+   }
+button{
+    text-align: center;
+    align-items: center;
+    width: 30%;
+    /* margin: 40px; */
+}
+
+/* icons  */
+.container-social{
+    display: block;
+    align-items: end;
+    align-content: end;
+    text-align:end;
+}
+
+.container-social span{
+    font-size: 45px;
+    color: white;
+    margin: 15px;
+}
